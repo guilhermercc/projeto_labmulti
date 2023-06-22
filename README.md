@@ -1,1 +1,1 @@
-# projeto_labmulti
+# Gestão de LabMulti da UFPE
